@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
 | [1492-the-kth-factor-of-n](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2427-number-of-common-factors) |
 ## Enumeration
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1492-the-kth-factor-of-n) |
 | [2427-number-of-common-factors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2427-number-of-common-factors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0414-third-maximum-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
@@ -51,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

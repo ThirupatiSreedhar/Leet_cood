@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0414-third-maximum-number) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2427-number-of-common-factors) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |

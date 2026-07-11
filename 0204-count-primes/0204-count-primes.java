@@ -8,9 +8,9 @@ class Solution {
         a[0] = 1;
         a[1] = 1;
 
-        for (int i = 2; i * i < num; i++) {
+        for (int i = 2;  i < num; i++) {
             if (a[i] == 0) {
-                for (int j = i * i; j < num; j += i) {
+                for (int j = i + i; j < num; j += i) {
                     a[j] = 1;
                 }
             }

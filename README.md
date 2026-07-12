@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |

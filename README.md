@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
 | [0728-self-dividing-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0728-self-dividing-numbers) |

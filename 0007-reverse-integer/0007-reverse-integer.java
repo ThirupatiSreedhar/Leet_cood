@@ -4,7 +4,7 @@ class Solution {
 
         while (x != 0) {
             int last = x % 10;
-            x = x / 10;
+         
 
             if (rev > Integer.MAX_VALUE / 10 ||
                 rev < Integer.MIN_VALUE/10) {
@@ -12,6 +12,7 @@ class Solution {
             }
 
             rev = rev * 10 + last;
+               x = x / 10;
         }
 
         return rev;

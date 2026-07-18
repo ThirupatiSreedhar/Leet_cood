@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0728-self-dividing-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1952-three-divisors) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -113,8 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0643-maximum-average-subarray-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

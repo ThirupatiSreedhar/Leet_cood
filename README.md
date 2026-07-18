@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1089-duplicate-zeros](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1137-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

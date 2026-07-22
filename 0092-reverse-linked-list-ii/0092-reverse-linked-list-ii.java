@@ -20,9 +20,9 @@ class Solution {
      int j=right-1;
     
         while (i < j) {
-            int temp = a.get(i);
-            a.set(i, a.get(j));
-            a.set(j, temp);
+           a.set(i, a.get(i) ^ a.get(j));
+            a.set(j, a.get(i) ^ a.get(j));
+            a.set(i, a.get(i) ^ a.get(j));
             i++;
             j--;
         }

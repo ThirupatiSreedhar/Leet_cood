@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1137-n-th-tribonacci-number) |

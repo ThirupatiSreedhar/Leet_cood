@@ -6,9 +6,11 @@ class Solution {
 
         while (mid <=high) {
             if (nums[mid] == 0) {
-                int temp = nums[low];
-                nums[low] = nums[mid];
-                nums[mid] = temp;
+                // int temp = nums[low];
+                // nums[low] = nums[mid];
+                // nums[mid] = temp;
+                nums[mid]=nums[low];
+                nums[low]=0;
                 low++;
                 mid++;
             } else if (nums[mid] == 1) {

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Memoization
 |  |
 | ------- |

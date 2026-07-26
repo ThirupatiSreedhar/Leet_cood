@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
 | [1089-duplicate-zeros](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Memoization
 |  |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->

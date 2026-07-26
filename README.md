@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table

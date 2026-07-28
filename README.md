@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0209-minimum-size-subarray-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |

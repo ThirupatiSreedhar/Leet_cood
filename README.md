@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0263-ugly-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0728-self-dividing-numbers) |

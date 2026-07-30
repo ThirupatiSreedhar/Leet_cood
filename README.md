@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2149-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

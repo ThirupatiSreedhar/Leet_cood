@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0349-intersection-of-two-arrays) |
 | [1089-duplicate-zeros](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |

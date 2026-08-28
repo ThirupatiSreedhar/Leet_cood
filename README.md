@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1089-duplicate-zeros](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |

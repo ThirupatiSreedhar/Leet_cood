@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0217-contains-duplicate) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0268-missing-number) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0268-missing-number) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3046-split-the-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3046-split-the-array) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -320,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0234-palindrome-linked-list) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0796-rotate-string) |

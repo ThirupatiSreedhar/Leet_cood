@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3904-smallest-stable-index-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |

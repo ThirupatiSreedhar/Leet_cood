@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0169-majority-element) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window

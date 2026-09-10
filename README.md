@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0136-single-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |

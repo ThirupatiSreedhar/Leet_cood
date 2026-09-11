@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3904-smallest-stable-index-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3046-split-the-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2427-number-of-common-factors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |

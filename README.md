@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1492-the-kth-factor-of-n) |
@@ -390,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

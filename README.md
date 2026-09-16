@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1492-the-kth-factor-of-n) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1952-three-divisors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2427-number-of-common-factors) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0647-palindromic-substrings) |
 | [1137-n-th-tribonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1137-n-th-tribonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->

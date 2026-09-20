@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1768-merge-strings-alternately) |
+| [3498-reverse-degree-of-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |

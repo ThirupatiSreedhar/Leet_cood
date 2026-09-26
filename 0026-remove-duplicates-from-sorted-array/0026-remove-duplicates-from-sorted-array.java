@@ -12,8 +12,8 @@ class Solution {
 //   }
      int k=0;
      for(int i=0;i<nums.length;i++){
-        if(nums[k]!=nums[i]){
-            k++;
+        if(nums[k]!=nums[i]){//1!=2
+            k++;//1
             nums[k]=nums[i];
         }
      }

@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0680-valid-palindrome-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0678-valid-parenthesis-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
 | ------- |

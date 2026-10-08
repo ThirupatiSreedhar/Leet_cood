@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3498-reverse-degree-of-a-string) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
 |  |
 | ------- |

@@ -421,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

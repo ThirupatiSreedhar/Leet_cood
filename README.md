@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1492-the-kth-factor-of-n) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1952-three-divisors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1952-three-divisors) |
+| [2409-count-days-spent-together](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2427-number-of-common-factors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1768-merge-strings-alternately](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/ThirupatiSreedhar/Leet_cood/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |

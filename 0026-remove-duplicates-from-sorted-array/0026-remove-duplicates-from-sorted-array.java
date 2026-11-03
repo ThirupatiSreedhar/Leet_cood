@@ -1,23 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-//        HashMap<Integer,Integer> h = new HashMap<>();
-//        int k=0;
-//   for(int i :nums){
-//     if(!h.containsKey(i)){
-//         h.put(i,1);
-        
-//         nums[k]=i;
-//         k++;
-//     }
-//   }
-     int k=0;
-     for(int i=0;i<nums.length;i++){
-        if(nums[k]!=nums[i]){//1!=2
-            k++;//1
-            nums[k]=nums[i];
-        }
-     }
-
-        return k+1;
+        HashMap<Integer,Integer> h = new HashMap<>();
+       int k =0;
+       for(int x :nums){
+        if(!h.containsKey(x)){
+            h.put(x,1);
+            nums[k]=x;
+            k++;
+       }
+       }
+       return k;
     }
 }

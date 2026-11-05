@@ -10,18 +10,16 @@ class Solution {
         double max = avg;
 
         int i = 0;
-        int j = k - 1;
+       
 
-        while (j < nums.length - 1) {
-            sum -= nums[i];
+      for(int j=k;j<nums.length;j++){
+           sum -= nums[i];
             i++;
-            j++;
             sum += nums[j];
 
             avg = (double) sum / k;
             max = Math.max(max, avg);
-        }
-
+      }
         return max;
     }
 }
